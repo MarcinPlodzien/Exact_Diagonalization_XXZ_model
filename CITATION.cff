@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Tutorial on Exact Diagonalization for the XXZ Model"
+authors:
+  - family-names: "Płodzień"
+    given-names: "Marcin"
+    affiliation: "ICFO"
+version: "1.0.0"
+date-released: "2025-01-04"
+url: "https://github.com/MarcinPlodzien/Exact_Diagonalization_XXZ_model"
+abstract: "This repository provides an implementation of the exact diagonalization method for the XXZ spin chain model in condensed matter physics. It is aimed at studying quantum properties of the system and exploring its physical behavior."
+keywords:
+  - exact diagonalization
+  - XXZ model
+  - quantum physics
+  - spin chains
+  - PCA
+  - t-SNE
+  - unsupervised analysis
+license: "Specify your license here (e.g., MIT, GPL-3.0)"
